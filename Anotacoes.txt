@@ -1,0 +1,3 @@
+Link para saber mais sobre homebreaw: https://brew.sh/index_pt-br
+
+Terminal extendido: Git Bash - pesquisar mais
